@@ -1,7 +1,5 @@
 #!/bin/bash
 
-    cd /tmp/app
-    
     # Construir la aplicación con Gradle
     bash gradlew build
 
